@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: powtac, mzeecedric
-Tags: authors, author, post, posts, 404
+Tags: authors, author, post, posts, 404, missing, error
 Requires at least: 2.6
 Tested up to: 2.6
 Stable tag: trunk

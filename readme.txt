@@ -21,5 +21,5 @@ The original idea was taken from the the "List Authors" plugin here: http://guff
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. That's all.
 
-== Screenshoots == 
-1. Screenshoot of the plugin section in the WP admin backend, which shows, where to activate the plugin.
+== Screenshots == 
+1. Screenshot of the plugin section in the WP admin backend, which shows, where to activate the plugin.

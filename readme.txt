@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: powtac, mzeecedric
+Contributors: powtac, mzeecedric, jke
 Tags: authors, author, post, posts, 404, missing, error
 Requires at least: 2.6
 Tested up to: 2.6
